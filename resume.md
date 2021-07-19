@@ -1,52 +1,34 @@
 ---
-title: "C'thulhu Resume"
 layout: resume
+title: "My Awesome Resume"
 ---
 
-# C'thulhu
+# Bryan Whitehurst
+##### bjwhitehurst@crimson.ua.edu
+##### 334-790-4894
+##### 311 Kirk Lane, Dothan, AL
+##### www.linkedin.com/in/bryan-whitehurst | https://github.com/BryanWhitehurst
+##### https://www.bwhitehurst.com 
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+## **Education**
+- Bachelor of Science, May 2023
+- The University of Alabama, Tuscaloosa, AL 
+- Major: Computer Science
+- GPA: 3.964/4.0	
 
-## Education
+## **Publications**
+- 	Bryan Whitehurst, “BallCaller: A computer vision line caller for tennis,” *ACM Southeast Conference*, virtual, April 2021, pp. 249-251.
+## **Skills**
+- **Languages**: C/C++, Python, JavaScript, Java, HTML/CSS, PHP, SQL
+- **Software**: Git, OpenCV, MySQL
+- **Operating Systems**: Windows, Linux
 
-### **Withering Madness University** Planet Vhoorl
+## **Programming Experience**
+- Created a web-service that combines two user’s Spotify playlists in order to streamline music collaboration with friends
+- Learned Javascript, Python, and HTML, as well as how to interface with a database (SQL).
+- Used Version Control (Git) to collaborate on code with team members
 
-**Major:** Public Relations
-
-**Minor:** Scale Tending
-
-## Skills
-
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+## **Campus Involvement**
+## **Leadership Experience**
+## **Work Experience**
+## **Awards**
