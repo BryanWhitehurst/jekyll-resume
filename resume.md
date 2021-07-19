@@ -4,6 +4,8 @@ title: "My Awesome Resume"
 ---
 
 # Bryan Whitehurst
+
+## **Contact Info**
 - bjwhitehurst@crimson.ua.edu
 - 334-790-4894
 - 311 Kirk Lane, Dothan, AL
@@ -29,6 +31,26 @@ title: "My Awesome Resume"
 - Used Version Control (Git) to collaborate on code with team members
 
 ## **Campus Involvement**
+**Emerging Scholars Program**, The University of Alabama, Tuscaloosa, AL, Spring 2020 – Fall 2020
+- Collaborate with University of Alabama faculty to create an application that makes line calls in the game of tennis
+- Develop coding knowledge and experience in order to increase academic and professional success
+
+**Club Member**, UA Association for Computing Machinery, University of Alabama, Spring 2020 - Current
+- Hear from company ambassadors to learn about the technology and coding experience that they look for in employees
+- Attend hackathons and workshops to increase breadth of coding knowledge 
+
 ## **Leadership Experience**
+**Club Treasurer**, Club Tennis, University of Alabama, Tuscaloosa, AL, Fall 2020 – Spring 2021
+- Help collect and organize club funds
+- Help with the functioning of club practices 
+
 ## **Work Experience**
+**HPC Cluster Engineering Academy Intern**, Lawrence Livermore National Laboratory, virtual
+- Custom install on a HPC system, surveyed HPC container tools
+**Publix Associate**, Publix, Dothan, AL, Summer 2020
+- Worked as a Front Service Clerk for the Publix Corporation during the Summer of 2020
+
 ## **Awards**
+**Best Extended Abstract**, ACM Southeast Conference, virtual, April 2021
+- Received the award for a computer vision project involving automatic line calling in the game of Tennis
+
