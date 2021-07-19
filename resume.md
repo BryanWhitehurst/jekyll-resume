@@ -4,11 +4,11 @@ title: "My Awesome Resume"
 ---
 
 # Bryan Whitehurst
-##### bjwhitehurst@crimson.ua.edu
-##### 334-790-4894
-##### 311 Kirk Lane, Dothan, AL
-##### www.linkedin.com/in/bryan-whitehurst | https://github.com/BryanWhitehurst
-##### https://www.bwhitehurst.com 
+- bjwhitehurst@crimson.ua.edu
+- 334-790-4894
+- 311 Kirk Lane, Dothan, AL
+- www.linkedin.com/in/bryan-whitehurst | https://github.com/BryanWhitehurst
+- https://www.bwhitehurst.com 
 
 ## **Education**
 - Bachelor of Science, May 2023
